@@ -1,0 +1,1 @@
+std_envtopo() is a plugin for EEGLAB STUDY. It performs EEGLAB's envtopo() analysis (for detail, see this paper https://pubmed.ncbi.nlm.nih.gov/26738014/) for the IC clusters generated in STUDY. It is compatible up to EEGLAB2019. The reference paper for this plugin is also https://pubmed.ncbi.nlm.nih.gov/26738014/. 
